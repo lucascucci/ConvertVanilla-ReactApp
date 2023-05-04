@@ -19,6 +19,6 @@
     "redux": "^4.2.1"
   },
   "eslintConfig": {
-    "extends":"./node_modules/standar/eslintrc.json"
+    "extends":"./node_modules/standard/eslintrc.json"
   }
 }
